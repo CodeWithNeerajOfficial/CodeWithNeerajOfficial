@@ -107,10 +107,21 @@ My primary focus is creating responsive websites and modern front-end experience
 
 <div align="center">
 
-<a href="https://codewithneeraj.netlify.app">🌍 Portfolio</a> •
-<a href="https://www.linkedin.com/in/code-with-neeraj">LinkedIn</a> •
-<a href="https://github.com/CodeWithNeerajOfficial">GitHub</a> •
-<a href="https://www.instagram.com/code.with.neeraj">Instagram</a>
+<a href="https://codewithneeraj.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/code-with-neeraj">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/CodeWithNeerajOfficial">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/code.with.neeraj">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
