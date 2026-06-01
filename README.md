@@ -1,37 +1,38 @@
-# Code with Neeraj 
-<div align="center">
-
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=About%20Me&fontSize=38&fontColor=ffffff"
-  alt='About Code with Neeraj'/>
+# Code with Neeraj
 
 <div align="center">
-  <img
-    src="https://github.com/CodeWithNeerajOfficial.png"
-    width="150"
-    alt="Neeraj Kumar | Code with Neeraj"
-  />
-</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Code%20with%20Neeraj&fontSize=38&fontColor=ffffff" alt="Code with Neeraj"/>
 
-</div>
+<br>
+
+<img src="https://github.com/CodeWithNeerajOfficial.png" width="150" alt="Neeraj Kumar | Code with Neeraj" />
+
 <h1>Neeraj Kumar | Code with Neeraj</h1>
-<h3>Freelance Web Developer</h3>
-<p>Building modern, responsive & scalable web applications.</p>
 
-<!-- Minimal Social (Professional only) -->
-<p align="center">
-  <a href="https://github.com/codeWithNeerajOfficial">
+<h3>Freelance Web Developer</h3>
+
+<p>
+Building modern, responsive & scalable web applications.
+</p>
+
+<p>
+  <a href="https://github.com/CodeWithNeerajOfficial">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/code-with-neeraj">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://codewithneeraj.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p>
 
+  <a href="https://www.instagram.com/code.with.neeraj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -39,43 +40,86 @@
 
 ## 👨‍💻 About Me
 
-I’m **Neeraj Kumar**, also known as **Code with Neeraj**, a freelance web developer focused on creating clean, performant and user-friendly web applications.
+Hi, I'm **Neeraj Kumar**, also known as **Code with Neeraj**.
 
-My primary focus is front-end development using modern JavaScript technologies, with an emphasis on scalability and performance.
+I'm a freelance web developer focused on building clean, modern, and high-performance web applications.
+
+My primary focus is creating responsive websites and modern front-end experiences using React and JavaScript technologies.
 
 ---
 
-## 🛠️ Skills
+## 🚀 What I Do
+
+- Responsive Website Development
+- React.js Applications
+- Next.js Development
+- Portfolio Websites
+- Business Websites
+- Landing Pages
+- UI Optimization
+- Freelance Client Projects
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 📈 GitHub Stats
 
-- Responsive website development  
-- React-based front-end applications  
-- UI performance optimization  
-- Client-focused web solutions  
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeWithNeerajOfficial&show_icons=true&theme=tokyonight&hide_border=true" />
 
-## 📊 GitHub Activity
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithNeerajOfficial&layout=compact&theme=tokyonight&hide_border=true" />
 
+</div>
 
 ---
 
-<p align="center">
-© Code with Neeraj
-</p>
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=CodeWithNeerajOfficial&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithNeerajOfficial&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://codewithneeraj.netlify.app">🌍 Portfolio</a> •
+<a href="https://www.linkedin.com/in/code-with-neeraj">LinkedIn</a> •
+<a href="https://github.com/CodeWithNeerajOfficial">GitHub</a> •
+<a href="https://www.instagram.com/code.with.neeraj">Instagram</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building digital experiences one project at a time
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
-
