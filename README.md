@@ -6,8 +6,12 @@
   alt='About Code with Neeraj'/>
 
 <div align="center">
-
-  <img src="https://avatars.githubusercontent.com/codeWithNeerajOfficial" width="150" style="border-radius:50%;" alt="Code with Neeraj's Image" />
+  <img
+    src="https://github.com/CodeWithNeerajOfficial.png"
+    width="150"
+    alt="Neeraj Kumar | Code with Neeraj"
+  />
+</div>
 
 
 </div>
