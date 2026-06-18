@@ -25,7 +25,7 @@ Building modern, responsive & scalable web applications.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://codewithneeraj.netlify.app">
+  <a href="https://codewithneeraj.com">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
@@ -107,7 +107,7 @@ My primary focus is creating responsive websites and modern front-end experience
 
 <div align="center">
 
-<a href="https://codewithneeraj.netlify.app">
+<a href="https://codewithneeraj.com">
   <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
